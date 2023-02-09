@@ -1,7 +1,7 @@
 # No-show Appointment Dataset Analysis
 
 
-## by Onyeukwu Stephen
+## by Stephen Onyeukwu
 
 
 ## Introduction
